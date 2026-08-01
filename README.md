@@ -1,4 +1,4 @@
-# Titanic - Machine Learning from Disaster
+# Titanic - Passenger Survival Prediction
 
 An end-to-end Machine Learning pipeline developed on Kaggle to predict passenger survival on the Titanic.
 
