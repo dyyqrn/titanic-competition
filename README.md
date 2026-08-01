@@ -4,7 +4,7 @@ An end-to-end Machine Learning pipeline developed on Kaggle to predict passenger
 
 ## Project Overview
 - **Objective:** Predict whether a passenger survived the Titanic shipwreck based on demographic and trip data.
-- **Dataset:** Kaggle Titanic Competition dataset (`train.csv`, `test.csv`).
+- **Data Source:** [Kaggle Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data) competition dataset (`train.csv`, `test.csv`).
 
 ## Workflow & Methodology
 1. **Exploratory Data Analysis (EDA):** Analyzed missing values (`Age`, `Cabin`, `Embarked`) and dataset distributions.
